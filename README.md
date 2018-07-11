@@ -11,3 +11,4 @@ step 4 type localhost:3000 inside your browser, if every thing worked thus far i
 #Notes
 
 I am using a new experimental/cutting edge way of coding called pug, you can take a look inside views folder. Tell me what you think, and do you want to use this pug or the tranditional html.
+change
