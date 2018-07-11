@@ -1,0 +1,28 @@
+{
+  "name": "barchips",
+  "version": "1.0.0",
+  "description": "A mobile app that will link with a web application to deploy virtual bar chips that can be redeemed at bar. the purpose is to save the efforts of ha\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[C\u001b[C\u001b having to carry a physical bar chip",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/championhero/barChips.git"
+  },
+  "keywords": [
+    "barChips",
+    "bar",
+    "chips"
+  ],
+  "author": "Yaozhong Xu, Jason Heyer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/championhero/barChips/issues"
+  },
+  "homepage": "https://github.com/championhero/barChips#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "pug": "^2.0.3"
+  }
+}
