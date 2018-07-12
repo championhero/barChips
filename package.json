@@ -22,7 +22,6 @@
   },
   "homepage": "https://github.com/championhero/barChips#readme",
   "dependencies": {
-    "express": "^4.16.3",
-    "pug": "^2.0.3"
+    "express": "^4.16.3"
   }
 }

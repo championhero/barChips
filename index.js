@@ -3,13 +3,9 @@ const path = require('path');
 //Initiate App
 const app = express();
 
-//Load View Engine
-app.set('views', path.join(__dirname, 'views'));
-app.set('view engine', 'pug');
-
 //Home Route
 app.get('/', function(req, res){
-  res.render('index');
+  res.sendfile(__dirname + '/views' + '/index.html');
 });
 
 //Start Server
